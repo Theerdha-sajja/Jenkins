@@ -23,7 +23,7 @@
 	<dependency>
     	<groupId>org.sonarsource.scanner.maven</groupId>
     	<artifactId>sonar-maven-plugin</artifactId>
-    	<version>3.9.1.2184</version>
+    	<version>4.7.0.2747</version>
 	</dependency>
     
  </dependencies>
